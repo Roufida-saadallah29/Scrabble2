@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623714584 source:d:\pascal\scrabblenouveau\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
